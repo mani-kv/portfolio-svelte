@@ -14,20 +14,20 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.3.5",
     "concurrently": "^6.2.1",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-svelte3": "^3.2.1",
+    "mdsvex": "^0.9.8",
     "postcss-cli": "^8.3.1",
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
+    "prismjs": "^1.25.0",
     "svelte": "^3.42.6",
-    "svelte-preprocess-markdown": "^2.7.3",
     "tailwindcss": "^2.2.15"
   },
   "type": "module",
-  "dependencies": {
-    "@tailwindcss/typography": "^0.4.1"
-  }
+  "dependencies": {}
 }
